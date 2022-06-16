@@ -1,8 +1,8 @@
 # Датчик освещённости MGS-L75 
 
 ООО "МГБот", 
-(https://mgbot.ru)
-(https://мгбот.рф)
+https://mgbot.ru
+https://мгбот.рф
 
 [Ссылка на сайте производителя](https://mgbot.ru/catalog/datchiki_sensory/datchik_osveshchennosti_mgs_l75_razem_rj_9_bh1750/)
 
