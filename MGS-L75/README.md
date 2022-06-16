@@ -20,6 +20,6 @@ https://mgbot.ru  - Сайт производителя (Интернет-маг
 
 https://мгбот.рф  - Сайт для образовательных учреждений
 
-[Ссылка на сайте производителя](https://mgbot.ru/catalog/datchiki_sensory/datchik_osveshchennosti_mgs_l75_razem_rj_9_bh1750/)
+[Ссылка на сайте производителя](https://mgbot.ru/catalog/datchiki_sensory/datchik_osveshchennosti_mgs_l75_razem_rj_9_bh1750/) - Прямая ссылка производителя на продукт
 
-[Ссылка на документацию](https://books.mgbot.ru/devices/MGS-L75.pdf)
+[Ссылка на документацию](https://books.mgbot.ru/devices/MGS-L75.pdf) - Техническая документация на продукт

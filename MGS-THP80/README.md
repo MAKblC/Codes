@@ -21,6 +21,6 @@ https://mgbot.ru  - Сайт производителя (Интернет-маг
 
 https://мгбот.рф  - Сайт для образовательных учреждений
 
-[Ссылка на сайте производителя](https://mgbot.ru/catalog/datchiki_sensory/datchik_temperatury_vlazhnosti_vozdukha_i_atmosfernogo_davleniya_mgs_thp80_razem_rj_9_bme280/)
+[Ссылка на сайте производителя](https://mgbot.ru/catalog/datchiki_sensory/datchik_temperatury_vlazhnosti_vozdukha_i_atmosfernogo_davleniya_mgs_thp80_razem_rj_9_bme280/) - Прямая ссылка производителя на продукт
 
-[Ссылка на документацию](https://books.mgbot.ru/devices/MGS-THP80.pdf)
+[Ссылка на документацию](https://books.mgbot.ru/devices/MGS-THP80.pdf) - Техническая документация на продукт
