@@ -17,9 +17,9 @@
 | Питание     | 5В|
 | Разъемы     | RJ-9, 2.54mm pin|
 
-https://mgbot.ru
+https://mgbot.ru  - Сайт производителя (Интернет-магазин)
 
-https://мгбот.рф
+https://мгбот.рф  - Сайт для образовательных учреждений
 
 [Ссылка на сайте производителя](https://mgbot.ru/catalog/datchiki_sensory/datchik_temperatury_vlazhnosti_vozdukha_i_atmosfernogo_davleniya_mgs_thp80_razem_rj_9_bme280/)
 

@@ -16,9 +16,9 @@
 | Питание     | 5В|
 | Разъемы     | RJ-9, 2.54mm pin|
 
-https://mgbot.ru
+https://mgbot.ru  - Сайт производителя (Интернет-магазин)
 
-https://мгбот.рф
+https://мгбот.рф  - Сайт для образовательных учреждений
 
 [Ссылка на сайте производителя](https://mgbot.ru/catalog/datchiki_sensory/datchik_osveshchennosti_mgs_l75_razem_rj_9_bh1750/)
 
