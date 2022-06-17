@@ -5,7 +5,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://disk.yandex.ru/d/9lfDorThghEFCg/IMG_9507.jpg)
+![Device image](https://downloader.disk.yandex.ru/preview/85d328e54e008dbd40126c1ea99b5c19f88c0db163f386a0823c2f950f8ce7e9/62ac90d6/cSsDAHAaft-Bjw5dSzIMehoXFl26h5HBijeffbKq2RWuhvLu_K7UfDeGU0_2ahAahOfVhGPMF_0LxfnXT_6PJA%3D%3D?uid=0&filename=IMG_9511.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x927)
 
 # Особенности:
 
