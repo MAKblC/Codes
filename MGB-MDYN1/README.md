@@ -2,8 +2,8 @@
 
 - **Adafruit-PWM-Servo-Driver-Library-master.zip** - библиотека для работы в Arduino IDE
 - **Arduino-INA226.zip** - библиотека для работы в Arduino IDE
-- **INA226.ino ** - пример скетча
-- **Motors.ino ** - пример скетча
+- **INA226.ino** - пример скетча
+- **Motors.ino** - пример скетча
 
 Произведено компанией ООО "МГБот"
 
