@@ -1,30 +1,24 @@
-/*********
-  Rui Santos
-  Complete project details at https://randomnerdtutorials.com
-*********/
-
 #include <LiquidCrystal_I2C.h>
 
-// set the LCD number of columns and rows
+// столбцы и строки
 int lcdColumns = 16;
 int lcdRows = 2;
 
-// set LCD address, number of columns and rows
-// if you don't know your display address, run an I2C scanner sketch
+// добавляем экзмпляр (адрес, количество столбцов, количество строк)
 LiquidCrystal_I2C lcd(0x3F, lcdColumns, lcdRows);
 
 void setup() {
-  // initialize LCD
+  // запуск LCD
   lcd.init();
-  // turn on LCD backlight
+  // включаем подсветку
   lcd.backlight();
-  // set cursor to first column, first row
+  // устанавливаем курсор
   lcd.setCursor(0, 0);
-  // print message
+  // выводим сообщение
   lcd.print("Hello, World!");
 }
 
-void loop() {
+void loop() { // выводим количество секунд с момента старта работы
   lcd.setCursor(0, 1);
   lcd.print(millis() / 100);
 }
