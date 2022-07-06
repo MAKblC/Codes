@@ -2,7 +2,7 @@
 #include <MCP3221.h>
 #include <Adafruit_MCP9808.h>
 
-const byte DEV_ADDR_5 = 0x4D; //4E
+const byte DEV_ADDR_5 = 0x4D; //0x4E,0x49
 MCP3221 mcp3221_5(DEV_ADDR_5);
 int a = 2248; // масштабирование значений
 int b = 1165;

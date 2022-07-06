@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include "MCP3221.h"
-const byte DEV_ADDR = 0x48;  // 0x5С 
+const byte DEV_ADDR = 0x48;  // 0x5С , 0x4D
 MCP3221 mcp3221(DEV_ADDR);
 
 void setup() {
