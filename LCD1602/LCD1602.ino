@@ -5,7 +5,7 @@ int lcdColumns = 16;
 int lcdRows = 2;
 
 // добавляем экзмпляр (адрес, количество столбцов, количество строк)
-LiquidCrystal_I2C lcd(0x3F, lcdColumns, lcdRows);
+LiquidCrystal_I2C lcd(0x3F, lcdColumns, lcdRows); // 0x27
 
 void setup() {
   // запуск LCD
