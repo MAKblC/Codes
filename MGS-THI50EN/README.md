@@ -7,7 +7,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://downloader.disk.yandex.ru/preview/7dbaf6a6a5082280c3914ef6d23e7a31b380fe34fe19fd96174af6cbf0980dcb/62acb156/EkOc9cAGdn5OMEg-BqKUP5WqbvOtVYHD3Xsu9rt4HQyvywwbVdUGmBpGo52G2WzplWN7m-pmdTcX5FRCYzNZ5g%3D%3D?uid=0&filename=IMG_1562.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x927)
+![Device image](https://downloader.disk.yandex.ru/preview/445adca44f2f5092546ce8a4f860e9b1f59652f33f8e781af53f6891b0432797/62cd8752/EkOc9cAGdn5OMEg-BqKUP5WqbvOtVYHD3Xsu9rt4HQyvywwbVdUGmBpGo52G2WzplWN7m-pmdTcX5FRCYzNZ5g%3D%3D?uid=0&filename=IMG_1562.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x927)
 
 # Особенности:
 
