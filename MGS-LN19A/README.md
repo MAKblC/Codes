@@ -4,7 +4,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://books.mgbot.ru/images/MGS-LN19AEN.png)
+![Device image](https://books.mgbot.ru/images/MGS-LN19AEN.PNG)
 
 # Особенности:
 
