@@ -5,7 +5,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://downloader.disk.yandex.ru/preview/392275e3408fd38f1a2f94f784f448d7fdc964fc5f1ac98acddd2222f22601c5/62acb10e/pLRzmK3-qC7lMyTd771owN-b7H76tn1juE9H3_Z66j5grwdhlGIPwr0DADPY46Y57vpArYcG9RNzTdca3gKnUA%3D%3D?uid=0&filename=IMG_1369.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x927)
+![Device image](https://books.mgbot.ru/images/MGS-UV60.png)
 
 # Особенности:
 

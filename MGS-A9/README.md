@@ -6,7 +6,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://downloader.disk.yandex.ru/preview/5beff46d6395bf7538ade1d699b75d6b92f9cf5525db49152d4d568782559460/62ac90c1/D4zYoWNIOXsWQdGC7KZKIL4AMYDrdvYLDnCShHST_cjrs29PHKRgtO1nD5aTuvh_y7aJbYtr9nKQ7noGkkp2_Q%3D%3D?uid=0&filename=IMG_1409.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x927)
+![Device image](https://books.mgbot.ru/images/MGS-A9.png)
 
 # Особенности:
 

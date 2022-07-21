@@ -5,7 +5,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://mgbot.ru/upload/iblock/2e5/2e55e5cbd038c471f0481bf577676a2f.JPG)
+![Device image](https://books.mgbot.ru/images/MGS-WT1.png)
 
 # Особенности:
 

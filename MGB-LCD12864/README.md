@@ -5,8 +5,8 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://mgbot.ru/upload/iblock/7b2/7b23da07ced1580a44d1ecc99ae5e697.jpg)
-
+![Device image](https://books.mgbot.ru/images/MGB-LCD12864.png)
+![Device image](https://books.mgbot.ru/images/MGB-LCD12864_2.png)
 # Особенности:
 
 | Параметр    | Описание |

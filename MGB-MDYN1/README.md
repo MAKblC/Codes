@@ -7,7 +7,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://downloader.disk.yandex.ru/preview/e8c45e5d3478d6a84abb4dabe41866bcbe4dfb20d894377a16ea84cb84b94afc/62cd8756/ci7eK-6ovFjubpJkIfbybt6PwBFhWSK-Oh9xm2CFSN3xjy31Kif-SdNKTuv9EJYFrpBAMTjzqo8g6fI-FubcBA%3D%3D?uid=0&filename=IMG_9646.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x927)
+![Device image](https://books.mgbot.ru/images/MGB-MDYN1.png)
 
 # Особенности:
 

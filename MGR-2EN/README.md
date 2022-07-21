@@ -5,7 +5,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://downloader.disk.yandex.ru/preview/2fde163490fad56830293559a713acdd872a66ec6279e3078be5e96c55adbe1c/62cd8754/NsmdZX0Vj8OKn1pnTUPwLhoXFl26h5HBijeffbKq2RXq9kP65Wi1-2EWfU0brZAhDoGlJXiW0ko-JPpEm0eVmQ%3D%3D?uid=0&filename=IMG_9514.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x927)
+![Device image](https://books.mgbot.ru/images/MGR-2EN.png)
 
 # Особенности:
 

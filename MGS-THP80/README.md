@@ -6,7 +6,7 @@
 
 🇷🇺 Произведено компанией "МГБот", Россия, г. Санкт-Петербург
 
-![Device image](https://mgbot.ru/upload/iblock/7b5/7b52a32a90fb3bcf14671d9d4801e022.jpg)
+![Device image](https://books.mgbot.ru/images/MGS-THP80.png)
 
 # Особенности:
 
