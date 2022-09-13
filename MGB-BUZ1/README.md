@@ -1,4 +1,4 @@
-# Модуль динамика MGB-BUZ1 
+# Генератор звука MGB-BUZ1 
 
 - **Adafruit_MCP4725.zip** - библиотека для работы в Arduino IDE
 - **Adafruit_Unified_Sensor.zip** - библиотека для работы в Arduino IDE
