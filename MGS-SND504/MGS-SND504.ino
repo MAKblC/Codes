@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include "MCP3221.h"
-const byte DEV_ADDR = 0x48;  // 0x5С , 0x4D
+const byte DEV_ADDR = 0x48;  // 0x5С , 0x4D (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 MCP3221 mcp3221(DEV_ADDR);
 
 void setup() {

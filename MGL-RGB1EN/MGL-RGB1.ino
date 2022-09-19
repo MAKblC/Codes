@@ -19,6 +19,7 @@ TLC59108 leds(I2C_ADDR + 7);
 
   Одна перемычка на JP0 (110) – следует добавить 2 старших бита бита 110(bin) = 6(dec) =
   TLC59108 leds(I2C_ADDR +6);
+  (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 */
 
 void setup() {

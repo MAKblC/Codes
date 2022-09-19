@@ -2,7 +2,7 @@
 #include <ClosedCube_OPT3001.h>
 
 ClosedCube_OPT3001 opt3001;
-#define OPT3001_ADDRESS 0x44 //44-47
+#define OPT3001_ADDRESS 0x44 //44-47 (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 
 void setup() {
   // Инициализация последовательного порта

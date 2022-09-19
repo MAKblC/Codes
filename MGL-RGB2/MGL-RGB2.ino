@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <PCA9634.h>
 
-PCA9634 testModule(0x4D);
+PCA9634 testModule(0x4D); (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 
 /*
   0 - UV1 Ультрафиолет

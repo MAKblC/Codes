@@ -2,7 +2,7 @@
 #include <MCP3221.h>
 #include <Adafruit_MCP9808.h>
 
-const byte DEV_ADDR_5 = 0x4D; //0x4E,0x49
+const byte DEV_ADDR_5 = 0x4D; //0x4E,0x49 (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 MCP3221 mcp3221_5(DEV_ADDR_5);
 int a = 2248; // масштабирование значений
 int b = 1165;

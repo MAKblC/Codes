@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
-Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x70); // адрес зависит от перемычек на плате
+Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x70); // адрес зависит от перемычек на плате (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 
 void setup() {
   // Инициализация последовательного порта

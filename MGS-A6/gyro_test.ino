@@ -12,7 +12,7 @@ void setup()
   Serial.println("Инициализация MPU6050");
   while(!mpu.begin(MPU6050_SCALE_2000DPS, MPU6050_RANGE_2G, 0x69))
   {
-    Serial.println("Не обнаружено устройство! Проверьте адрес!"); // Используйте I2C сканер для проверки
+    Serial.println("Не обнаружено устройство! Проверьте адрес!"); // (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
     delay(500);
   }
   

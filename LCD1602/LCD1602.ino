@@ -5,7 +5,7 @@ int lcdColumns = 16;
 int lcdRows = 2;
 
 // добавляем экзмпляр (адрес, количество столбцов, количество строк)
-LiquidCrystal_I2C lcd(0x3F, lcdColumns, lcdRows); // 0x27
+LiquidCrystal_I2C lcd(0x3F, lcdColumns, lcdRows); // 0x27 (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 
 void setup() {
   // запуск LCD

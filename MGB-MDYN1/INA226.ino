@@ -7,7 +7,7 @@ void setup() {
   Serial.begin(115200);
   // Инициализация датчика
   Wire.begin();
-  ina226.begin(0x40); // зависит от расположения перемычек
+  ina226.begin(0x40); // зависит от расположения перемычек (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
   ina226.configure(INA226_AVERAGES_1, INA226_BUS_CONV_TIME_1100US, INA226_SHUNT_CONV_TIME_1100US, INA226_MODE_SHUNT_BUS_CONT);
   ina226.calibrate(0.002, 10);
 }

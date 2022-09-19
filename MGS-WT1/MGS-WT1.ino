@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include "mcp3021.h"
-uint8_t adcDeviceId =  0b00000000; // 0b00000001 // 0b00000101
+uint8_t adcDeviceId =  0b00000000; // 0b00000001 // 0b00000101 (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
 MCP3021 mcp3021;
 // калибровочные значения с АЦП
 const float air_value = 561.0;
