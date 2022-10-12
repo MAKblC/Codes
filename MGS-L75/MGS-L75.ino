@@ -4,6 +4,7 @@ BH1750FVI LightSensor_1;
 
 void setup() {
   // Инициализация последовательного порта
+  Wire.begin();
   Serial.begin(115200);
   // Инициализация датчика
   LightSensor_1.begin(); // (0x23), (0x5C) (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
