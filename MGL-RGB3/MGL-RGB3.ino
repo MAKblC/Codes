@@ -50,6 +50,5 @@ void loop() {
   testModule.write1(3, 0x00);
   testModule.write1(2, 0x00);
   testModule.write1(5, 0x00);
-  }
 }
 
