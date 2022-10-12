@@ -21,8 +21,5 @@ void loop() {
   // Вывод измеренных значений в терминал
   Serial.println("Ambient light intensity: " + String(l, 1) + " lx");
   delay(250);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 5a834f5fdbe73de7690e575926c66aa1e51bbb1e
+
