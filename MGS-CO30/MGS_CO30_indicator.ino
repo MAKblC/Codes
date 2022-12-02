@@ -1,8 +1,12 @@
+/* после того, как вы определили критические значения, 
+после которых следует бить тревогу, можно использовать данный пример
+в качестве сигнализации о нарушении чистоты воздуха*/
+ 
 #include "SparkFun_SGP30_Arduino_Library.h"
 #include <Wire.h>
 SGP30 mySensor;
 
-int ctitical_CO2 = 600;
+int ctitical_CO2 = 600; // здесь впишите пороговые значения, исходя из скетча MGS-CO30.ino
 int critical_TVOC = 150;
 
 void setup() {
