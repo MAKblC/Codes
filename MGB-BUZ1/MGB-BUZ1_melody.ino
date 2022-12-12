@@ -3,7 +3,7 @@
 Adafruit_MCP4725 buzzer;
 
 int vol1 = 1000;
-int vol2 = 900; // разница значений = громкость
+int vol2 = 100; // разница значений = громкость
 int ton;
 
 void setup() {
