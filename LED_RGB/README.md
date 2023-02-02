@@ -1,7 +1,7 @@
 # Светодиодная матрица 64 LED RGB
 
 - **Adafruit_NeoMatrix-master.zip** - библиотека для работы в Arduino IDE
-- *Adafruit_NeoPixel-master.zip** - библиотека для работы в Arduino IDE
+- **Adafruit_NeoPixel-master.zip** - библиотека для работы в Arduino IDE
 - **Adafruit-GFX-Library-master.zip** - библиотека для работы в Arduino IDE
 - **FastLED-3.2.0.zip** - библиотека для работы в Arduino IDE
 - **FastLED-GFX-master.zip** - библиотека для работы в Arduino IDE
@@ -16,7 +16,7 @@
 | Параметр    | Описание |
 | ----------- | -----------|
 | Интерфейс   | one-wire|
-| Количество ветодиодов       | 64 |
+| Количество cветодиодов       | 64 |
 | Питание     | 5В|
 | Тип светодиодов     | WS2812|
 
