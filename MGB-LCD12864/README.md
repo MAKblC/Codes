@@ -1,4 +1,4 @@
-# Модуль графического LCD дисплея 128x64 MGB-LCD1286EN 
+# Модуль графического ЖК дисплея (LCD) MGB-LCD1286
 
 - **I2C_graphical_LCD_modified.zip** - библиотека для работы в Arduino IDE
 - **MGB-LCD12864.ino** - пример скетча

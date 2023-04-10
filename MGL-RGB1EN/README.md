@@ -1,4 +1,4 @@
-# Модуль RGB светодиода MGL-RGB1 
+# Светодиодный модуль MGL-RGB1 
 
 - **TLC59108_modified.zip** - библиотека для работы в Arduino IDE
 - **MGL-RGB1.ino** - пример скетча

@@ -1,4 +1,4 @@
-# Датчик температуры и влажности почвы цифровой с I2C интерфейсом MGS-THI50EN 
+# Датчик температуры и влажности почвы цифровой с I2C MGS-THI50 
 
 - **Adafruit_MCP9808_Library-master.zip** - библиотека для работы в Arduino IDE
 - **Adafruit_MCP9808_Library-master.zip** - библиотека для работы в Arduino IDE
