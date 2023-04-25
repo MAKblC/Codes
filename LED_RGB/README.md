@@ -3,7 +3,7 @@
 - **Adafruit_NeoMatrix-master.zip** - библиотека для работы в Arduino IDE
 - **Adafruit_NeoPixel-master.zip** - библиотека для работы в Arduino IDE
 - **Adafruit-GFX-Library-master.zip** - библиотека для работы в Arduino IDE
-- **FastLED-3.2.0.zip** - библиотека для работы в Arduino IDE
+- **FastLED-master.zip** - библиотека для работы в Arduino IDE
 - **FastLED-GFX-master.zip** - библиотека для работы в Arduino IDE
 - **FastLEDMatrix-master.zip** - библиотека для работы в Arduino IDE
 - **LED_test.ino** - пример скетча для управления с FastLED-библиотеками
