@@ -8,7 +8,7 @@ void setup(void) {
   Serial.begin(115200);
   Serial.println("Adafruit MPU6050 test!");
   // Запуск
-  if (!mpu.begin(0x69)) {
+  if (!mpu.begin(0x69)) { // (0x68) (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
     Serial.println("Failed to find MPU6050 chip");
     while (1) {
       delay(10);
