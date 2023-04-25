@@ -20,7 +20,7 @@ void loop() {
   delay(300);
 }
 
-int note( int type, int duration) { // нота (нота, длительность)
+void note( int type, int duration) { // нота (нота, длительность)
   switch (type) {
     case 1: ton = 1000; break;
     case 2: ton = 860; break;
