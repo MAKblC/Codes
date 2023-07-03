@@ -1,7 +1,11 @@
 #include <Wire.h>
 #include "mcp3021.h"
-uint8_t adcDeviceId =  0b00000000; // 0b00000001 // 0b00000101 (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
+uint8_t adcDeviceId =  0b00000000; /* 0b00000001 / 0b00000101 
+(также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
+0x48 (000)...0x4D(111)*/
+
 MCP3021 mcp3021;
+
 // калибровочные значения с АЦП
 const float air_value = 561.0;
 const float water_value = 293.0;
