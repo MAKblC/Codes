@@ -87,6 +87,7 @@ bool setBusChannel(uint8_t i2c_channel)
   {
     Wire.beginTransmission(I2C_HUB_ADDR);
     Wire.write(i2c_channel | EN_MASK);
+	// Wire.write(0x01 << i2c_channel);
     Wire.endTransmission();
     return true;
   }
