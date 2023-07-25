@@ -32,6 +32,15 @@ void loop() {
   {
     testModule.setLedDriverMode(channel, PCA9634_LEDPWM); // установка режима ШИМ (0-255)
   }
+  /* leds.setBrightness(x, P);
+    x - светодиод:
+    0,6 - белые
+    1, 4 - УФ
+    3 - красный RGB
+    2 - зеленый RGB
+    5 - синий RGB
+    P - яркость (0x00-0xff) (0-255)
+  */
   testModule.write1(3, 0x90);
   testModule.write1(2, 0x00);
   testModule.write1(5, 0x90);
