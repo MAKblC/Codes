@@ -5,9 +5,9 @@
 #include <Wire.h>
 #include <PCA9634.h>
 
-PCA9634 testModule(0x08);
+PCA9634 testModule(0x1C);
 /* Адрес зависит от перемычек на модуле(также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
-  Данный пример позволяет запустить MGL-RGB3.2
+  Данный пример позволяет запустить MGL-RGB3 с тремя надетыми джамперами
 */
 
 void setup() {
