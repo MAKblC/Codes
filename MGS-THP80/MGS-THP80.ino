@@ -7,7 +7,7 @@ void setup() {
   // Инициализация последовательного порта
   Serial.begin(115200);
   // Инициализация датчика
-  bool bme_status = bme280.begin(); // (0x76) (0x77) (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
+  bool bme_status = bme280.begin(); // (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
   if (!bme_status)
     Serial.println("Could not find a valid BME280 sensor, check wiring!");
 }
