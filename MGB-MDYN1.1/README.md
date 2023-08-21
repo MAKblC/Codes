@@ -20,6 +20,6 @@ https://mgbot.ru  - Сайт производителя (Интернет-маг
 
 https://мгбот.рф  - Сайт для образовательных учреждений
 
-[Ссылка на сайте производителя](https://mgbot.ru/catalog/uchebnaya_robototekhnika/nabor_dinamika_start_m1/) - Прямая ссылка производителя на продукт
+[Ссылка на сайте производителя](https://mgbot.ru/catalog/moduli/motornaya_plata_mgb_mdyn1_nabora_dinamika/) - Прямая ссылка производителя на продукт
 
 [Ссылка на документацию](https://books.mgbot.ru/devices/MGB-MDYN1.1.pdf) - Техническая документация на продукт
