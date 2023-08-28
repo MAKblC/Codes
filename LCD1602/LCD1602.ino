@@ -20,5 +20,6 @@ void setup() {
 
 void loop() { // выводим количество секунд с момента старта работы
   lcd.setCursor(0, 1);
-  lcd.print(millis() / 100);
+  lcd.print(millis() / 1000);
+  delay(1000);
 }
