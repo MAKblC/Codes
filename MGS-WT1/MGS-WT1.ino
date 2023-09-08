@@ -1,8 +1,8 @@
 #include <Wire.h>
 #include "mcp3021.h"
-uint8_t adcDeviceId =  0b00000000; /* 0b00000001 / 0b00000101 
-(также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
-0x48 (000)...0x4D(111)*/
+byte ADDR;
+// (также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
+// 0x48 (000)...0x4F(111)
 
 MCP3021 mcp3021;
 
@@ -17,8 +17,12 @@ void setup() {
   Serial.begin(115200);
   // Инициализация I2C интерфейса
   Wire.begin();
+  ADDR = scan(); // скан адреса
+  Serial.println(" АДРЕС:");
+  Serial.println(ADDR, HEX);
   // Инициализация АЦП
-  mcp3021.begin(adcDeviceId);
+  ADDR = ADDR-0x48;
+  mcp3021.begin(ADDR);
 }
 
 void loop() {
@@ -28,4 +32,24 @@ void loop() {
   // Вывод измеренных значений в терминал
   Serial.println("Water level = " + String(h, 1) + " %");
   delay(250);
+}
+
+
+byte scan() { // сканирование адреса
+  byte error, address;
+  Serial.println("Сканирую...");
+  for (address = 8; address < 127; address++ ) {
+	Wire.beginTransmission(address);
+    error = Wire.endTransmission();
+
+    if (error == 0) {
+      Serial.print("I2C устройство найдено по адресу 0x");
+      if (address < 16)
+        Serial.print("0");
+      Serial.print(address, HEX);
+      return address;
+      Serial.println(" !");
+      break;
+    }
+  }
 }
