@@ -1,13 +1,17 @@
 #include <Wire.h>
 #include "MCP3221.h"
-
-MCP3221 mcp3221(0x4D); // Адрес может отличаться(также попробуйте просканировать адрес: https://github.com/MAKblC/Codes/tree/master/I2C%20scanner)
+byte ADDR;
+MCP3221 mcp3221(ADDR);
 
 void setup() {
   // Инициализация последовательного порта
   Serial.begin(115200);
   // Инициализация I2C интерфейса
   Wire.begin();
+  ADDR = scan(); // скан адреса
+  Serial.println(" АДРЕС:");
+  Serial.println(ADDR, HEX);
+  mcp3221.setAddress(ADDR);
   mcp3221.setVinput(VOLTAGE_INPUT_5V);
 }
 
@@ -25,3 +29,22 @@ void loop()
   delay(200);
 }
 
+
+byte scan() { // сканирование адреса
+  byte error, address;
+  Serial.println("Сканирую...");
+  for (address = 8; address < 127; address++ ) {
+    Wire.beginTransmission(address);
+    error = Wire.endTransmission();
+
+    if (error == 0) {
+      Serial.print("I2C устройство найдено по адресу 0x");
+      if (address < 16)
+        Serial.print("0");
+      Serial.print(address, HEX);
+      return address;
+      Serial.println(" !");
+      break;
+    }
+  }
+}
