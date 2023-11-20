@@ -2,6 +2,7 @@
 
 - **SimpleTimer.zip** - библиотека для работы в Arduino IDE
 - **FLUGER.ino** - пример скетча
+- **Fluger_calibr.ino** - пример скетча для настройки флюгера
 
 ![Device image](https://books.mgbot.ru/images/FLUGER.PNG)
 
