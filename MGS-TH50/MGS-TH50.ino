@@ -6,6 +6,8 @@ const float water_value  = 800.0;
 const float moisture_0   = 0.0;
 const float moisture_100 = 100.0;
 
+const float k = 6.27; // коэффициент поправки напряжения АЦП ESP32 для ~4.45В
+
 void setup() {
   // Инициализация последовательного порта
   Serial.begin(115200);
@@ -15,7 +17,7 @@ void loop() {
   // Измерение
   float adc0 = analogRead(SOIL_MOISTURE);
   float adc1 = analogRead(SOIL_TEMPERATURE);
-  float t = ((adc1 / 4095.0 * 5.0) - 0.3) * 100.0; // АЦП разрядность (12) = 4095 
+  float t = ((adc1 / 4095.0 * k) - 0.5) * 100.0; // АЦП разрядность (12) = 4095 
   float h = map(adc0, air_value, water_value, moisture_0, moisture_100);
   // Вывод измеренных значений в терминал
   Serial.println("Soil humidity = " + String(h, 1) + " %");
