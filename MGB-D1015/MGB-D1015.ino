@@ -21,10 +21,10 @@ void setup()
 
 void loop()
 {
-  float adc0 = (float)ads.readADC_SingleEnded(0) * 6.144 * 16;
-  float adc1 = (float)ads.readADC_SingleEnded(1) * 6.144 * 16;
+  float adc0 = (float)ads.readADC_SingleEnded(0) / 2047.0 * 6.144;
+  float adc1 = (float)ads.readADC_SingleEnded(1) / 2047.0 * 6.144;
   // измерение температуры
-  float t1 = (adc1 / 1000); //1023.0 * 5.0) - 0.5) * 100.0; 
+  float t1 = (adc1  - 0.5) * 100.0; // по формуле для TC1047A
   // преобразование значения влажности в диапазон от 0 до 100%
   float h1 = map(adc0, air_value, water_value, moisture_0, moisture_100); 
   Serial.println("soil temperature = " + String(t1, 1) + " °C");
