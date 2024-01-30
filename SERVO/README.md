@@ -1,4 +1,4 @@
-# Сервопривод SG90/MG90S
+# Микросервопривод SG90/MG90S
 
 - **ESP32_Servo-master.zip** - библиотека для работы в Arduino IDE
 - **SERVO.ino** - пример скетча

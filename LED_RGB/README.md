@@ -1,4 +1,4 @@
-# Светодиодная матрица 64 LED RGB
+# Светодиодная матрица LED RGB
 
 - **Adafruit_NeoMatrix-master.zip** - библиотека для работы в Arduino IDE
 - **Adafruit_NeoPixel-master.zip** - библиотека для работы в Arduino IDE
