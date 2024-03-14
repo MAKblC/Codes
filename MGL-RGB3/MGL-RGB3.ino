@@ -59,5 +59,18 @@ void loop() {
   testModule.write1(3, 0x00);
   testModule.write1(2, 0x00);
   testModule.write1(5, 0x00);
+  // с помощью функции
+  RGB(255, 0, 0); // красный
+  delay(1000);
+  RGB(255, 255, 0); // желтый
+  delay(1000);
+  RGB(255, 0, 255); // розовый
+  delay(1000);
 }
 
+// краткая функция управления RGB светодиодом
+void RGB(byte r, byte g, byte b) {
+  testModule.write1(3, r);
+  testModule.write1(3, g);
+  testModule.write1(5, b);
+}
