@@ -71,6 +71,6 @@ void loop() {
 // краткая функция управления RGB светодиодом
 void RGB(byte r, byte g, byte b) {
   testModule.write1(3, r);
-  testModule.write1(3, g);
+  testModule.write1(2, g);
   testModule.write1(5, b);
 }
