@@ -1,4 +1,4 @@
-// Подключите устройство к I2C (21 - SDA; 22 - SCL)
+/* Подключите устройство к I2C (21 - SDA; 22 - SCL) */
 #include <Wire.h>
 
 const byte AddrDevices[][16] = {
